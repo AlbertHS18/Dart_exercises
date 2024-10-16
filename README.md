@@ -21,4 +21,5 @@ Para ejecutar , necesitas tener instalado [Dart SDK](https://dart.dev/get-dart).
 1. Clona este repositorio en tu máquina local:
 
    git clone <https://github.com/tu_usuario/proyecto_dart.git>
+   
    cd proyecto_dart
